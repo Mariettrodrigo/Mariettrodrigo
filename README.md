@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there! I’m an undergraduate student in Computing and Information Systems with a passion for both technology and business. <br><br>💻 I'm currently diving into Full Stack Development, learning how to build amazing things from both the frontend and backend using modern languages and frameworks.<br>📊 On the other side, I'm also exploring tools like Power BI and Excel for data analysis and learning how projects really work through Project Management and Agile practices like Scrum and Kanban.<br>💡 I enjoy blending tech skills with business thinking, aiming to create smart, user-focused solutions.<br><br>
+# About Me:
+Hi there! I’m an undergraduate student in Computing and Information Systems with a passion for both technology and business. <br><br>I'm currently diving into Full Stack Development, learning how to build amazing things from both the frontend and backend using modern languages and frameworks.<br>On the other side, I'm also exploring tools like Power BI and Excel for data analysis and learning how projects really work through Project Management and Agile practices like Scrum and Kanban.<br>I enjoy blending tech skills with business thinking, aiming to create smart, user-focused solutions.<br><br>
 
 
 ## 🌐 Socials:
